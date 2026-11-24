@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Raw and processed datasets
+data/raw/
+data/processed/
+
+#Kaggle credentials
+kaggle.json
+.kaggle/
